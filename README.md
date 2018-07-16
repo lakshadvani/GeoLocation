@@ -1,3 +1,3 @@
 # GeoLocation
 
-My work to detct ships from arial images.
+ToDo: Comparison on panr-chromatic images.
