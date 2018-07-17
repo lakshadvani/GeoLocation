@@ -1,3 +1,3 @@
-# GeoLocation
+This is my foray into geointelligence 101.  A simple NN and sliding window to identify ships in Sigapore Harbor.
 
-ToDo: Comparison on panr-chromatic images.
+Todo:  Experiements in PanChromatism.
