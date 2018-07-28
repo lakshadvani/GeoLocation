@@ -20,7 +20,7 @@ input_data = np.array(dataset['data']).astype('uint8')
 output_data = np.array(dataset['labels']).astype('uint8')
 
 
-print()
+
 print(input_data.shape)
 
 
